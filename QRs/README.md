@@ -22,5 +22,5 @@ Table below lists all barcodes & their reference.
 | [EbookSample_LiquidDocs.png](./EbookSample_LiquidDocs.png) | Liquid Docs, Season 1, QR Code - The manual for every course season | 
 | [EbookSample_BHGM.png](./EbookSample_BHGM.png) | Black Hat Go Manual, Vol .1, QR Code - A manual which holds some pretty cool niche knowlede and scripts for beginners wanting to mash cybersecurity and development |
 | [EbookSample_BHPM.png](./EbookSample_BHPM.png) | Black Hat Python Manual, Vol .1, QR Code - A manual format, similar to the Black Hat Go Manual, but with the Python programming language (v3.x) |
-| [EbookSample_GHFM.png](./EbookSample_GHFM.png) | Game Hackers Field Manual, Vol .1, QR Code - Almost 400 pages worth of some different game hacking content for people just now entering the surface, not for exports |
+| [EbookSample_GHFM.png](./EbookSampl_GHFM.png) | Game Hackers Field Manual, Vol .1, QR Code - Almost 400 pages worth of some different game hacking content for people just now entering the surface, not for exports |
 
