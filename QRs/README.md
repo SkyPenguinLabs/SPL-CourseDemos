@@ -19,6 +19,7 @@ Table below lists all barcodes & their reference.
 | [PRGC1_SAMPLE_QR.png](./PRGC1_SAMPLE_QR.png) | PRGC1, Programming, Course #1, QR code - Go Modules in Depth for Beginners |
 | [PRGC2_SAMPLE_QR.png](./PRGC2_SAMPLE_QR.png) | PRGC2, Programming, Course #2, QR code - Learn How to Optimize Go Projects Using Go's Standard Library |
 | [PRGC3_SAMPLE_QR.png](./PRGC4_SAMPLE_QR.png) | PRGC3, Programming, Course #3, QR code - How Frontend Validation Assists UX & Can Save You From User Rage! |
+| [OPRGC1_SAMPLE_QR.png](./OPRGC1_SAMPLE_QR.png) | OPRGC1, Offensive Programming, Course #1, QR code - A Surface Level introduction to Offensive Tool Development |
 | [EbookSample_LiquidDocs.png](./EbookSample_LiquidDocs.png) | Liquid Docs, Season 1, QR Code - The manual for every course season | 
 | [EbookSample_BHGM.png](./EbookSample_BHGM.png) | Black Hat Go Manual, Vol .1, QR Code - A manual which holds some pretty cool niche knowlede and scripts for beginners wanting to mash cybersecurity and development |
 | [EbookSample_BHPM.png](./EbookSample_BHPM.png) | Black Hat Python Manual, Vol .1, QR Code - A manual format, similar to the Black Hat Go Manual, but with the Python programming language (v3.x) |
