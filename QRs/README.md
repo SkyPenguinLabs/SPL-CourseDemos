@@ -14,4 +14,8 @@ Table below lists all barcodes & their reference.
 | [REC_5_SAMPLE_QR.png](./REC5_SAMPLE_QR.png) | REC5, Reverse Engineering, Course #5, QR code - Static Analysis for Ethereum Detection using Go w/ELF |
 | [REC_4_SAMPLE_QR.png](./REC4_SAMPLE_QR.png) | REC4, Reverse Engineering, Course #4, QR code - How to time manage the reverse engineering process |
 | [REC_2_SAMPLE_QR.png](./REC2_SAMPLE_QR.png) | REC2, Reverse Engineering, Course #2, QR code - How Mathematics is Applied to Reverse Engineering |
+| [RExC1 - Knowing File Types in RE Help You, Trust.png.png](./RExC1%20-%20Knowing%20File%20Types%20in%20RE%20Help%20You,%20Trust.png) | CSIC1, Computer Science, Course #1, QR code-  How steganography Works for Beginners |
 | [CSIxC1_StegoForBeginners.png](./CSIxC1_StegoForBeginners) | CSIC1, Computer Science, Course #1, QR code-  How steganography Works for Beginners |
+| [PRGC1_SAMPLE_QR.png](./PRGC1_SAMPLE_QR.png) | PRGC1, Programming, Course #1, QR code - Go Modules in Depth for Beginners |
+| [PRGC2_SAMPLE_QR.png](./PRGC2_SAMPLE_QR.png) | PRGC2, Programming, Course #2, QR code - Learn How to Optimize Go Projects Using Go's Standard Library |
+| [PRGC3_SAMPLE_QR.png](./PRGC4_SAMPLE_QR.png) | PRGC3, Programming, Course #3, QR code - How Frontend Validation Assists UX & Can Save You From User Rage! |
