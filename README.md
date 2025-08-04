@@ -1,2 +1,13 @@
-# SPL-CourseDemos
-SkyPenguinLabs Course Demo Repository - Holds all of the sample documents for all courses, lessons, or e-book products sold and released by SkyPenguinLabs LLC.
+# SkyPenguinLabs - Courses & Consultation
+---
+
+Welcome to the course repository for the SkyPenguinLabs which contains:
+
+* Lesson Samples
+* eBook Demonstrations
+* Free Lessons
+* All QR's and image assets for quick-loading
+* All demo apps used by SkyPenguinLabs courses
+
+
+
