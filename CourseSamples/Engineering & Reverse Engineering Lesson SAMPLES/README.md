@@ -6,7 +6,7 @@ All of the documents mentioned within this directory are explained in the table 
 > [!TIP]
 > All samples give you the introduction, table of contents, pre-requisites, and at least half of section 1. 
 
-### 📑 Demo Lesson & Asset References
+### 📑 Demo Lesson Table 
 
 | Sample Document | Topic & Purpose of Existence |
 |------|---------|
