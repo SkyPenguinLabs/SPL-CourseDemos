@@ -12,6 +12,7 @@ All of the documents mentioned within this directory are explained in the table 
 |------|---------|
 | [Sample PRGC1](./%5BSAMPLE%5D%20PRGC1%20-%20Go%20Modules%20In%20Depth%20For%20Beginners%20%5BSAMPLE%5D.pdf) | Want to learn your way around Golang's annoying module system? This one may help you just a little bit on your road to R&D |
 | [Sample PRGC2](./%5BSAMPLE%5D%20PRGC2%20-%20Learn%20How%20To%20Utilize%20Go's%20STD%20Lib%20To%20Optimize%20Applications%20%5BSAMPLE%5D.pdf) | Golang has a powerful std library, so powerful you can remove unecessary bloat, such as CLI table libraries and replace it with your own |
+| [Sample OPRGC1](./%5BSAMPLE%5D%20OPRGC1%20-%20Proper%20Offensive%20Tooling%20%26%20Development%20Introduction%20%5BSAMPLE%5D.pdf) | Offensive programming, the first article which applies the theory and idea of applying offensive security tactics to develop offensive tools and frameworks. This may become a whole series, so stay tunned! |
 
 
 
