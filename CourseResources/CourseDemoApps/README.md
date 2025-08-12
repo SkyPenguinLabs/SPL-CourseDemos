@@ -5,5 +5,5 @@ All folders in this document resemble a course that has been published on the in
 
 The table below outlines the folders and their contents.
 
-> [!INFO]
+[!INFO]
 > Note that all of the contents you will find in the folders are documented with as much information as necessary to get them running or functioning. 
