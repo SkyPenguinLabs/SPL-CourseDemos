@@ -12,7 +12,7 @@ It is important that if you want to navigate the resources, you pay attention to
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [Reverse Engineering Lists]() | This category involves all of the text based lists that organize all resources in relation to topic/field of reverse engineering |
 | [Development List]()          | This category contains all of the lists which have anything to do with resources that talk about development.                    |
-| [CourseDemoApp List](./CorseDemoApps) | Did I tell you we store the apps we have you download and practice on for the courses here? Well, if not, they are stored here separated by course title |  
+| [CourseDemoApp List](./CourseDemoApps) | Did I tell you we store the apps we have you download and practice on for the courses here? Well, if not, they are stored here separated by course title |  
 
 
 > [!CAUTION]
