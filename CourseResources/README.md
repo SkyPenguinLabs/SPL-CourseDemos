@@ -3,7 +3,7 @@ Welcome to the official resource list compiled by SkyPenguinLabs for all of our 
 
 It is important that if you want to navigate the resources, you pay attention to the table below. Other than that, see you around!
 
-> [!INFO]
+> [!TIP]
 > Make sure you keep in mind that resource lists are separated by category here. Each resource was collected by SkyPenguinLabs ethically, and compiled down and organized into this list to make sure all authors and even ones we want to support get their share of the community love!
 
 ### 📑 Content Table 
