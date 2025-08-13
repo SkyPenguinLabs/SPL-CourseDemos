@@ -2,6 +2,9 @@
 
 The table below defines all of the applications and their purpose/relevance to the course, and what should be done to set them up.
 
+> [!NOTE]
+> Click the app name to download it from [skypenguinlabs](https://skypenguinlabs.wtf)
+
 ### App Catalog 
 
 | Application name | Application purpose | Sha 1 Hash |
