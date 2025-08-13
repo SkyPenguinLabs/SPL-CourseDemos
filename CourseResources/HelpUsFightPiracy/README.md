@@ -4,7 +4,8 @@ In order to make sure you are not getting scammed (*e.g, by somebody who claims 
 
 This document is separated into two sections, both involving a table of the resource name, followed by its file type, hash, and description:
 
-* **Sample or Free Downloadable Content** - This is all of the content which is found on our GitHub page, or on a remote server under the domain skypenguinlabs.wtf
+* **Sample or Free Downloadable Content** - This is all of the content which is found on our GitHub page, or on a remote server under the domain [skypenguinlabs](https://skypenguinlabs.wtf)
+
 * **Paid Downloadable Content** - This is all of the content or media we release which is paid for. 
 
 
