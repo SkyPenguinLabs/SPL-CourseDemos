@@ -1,8 +1,14 @@
-## Welcome to the hash DB for every course served!
+# Welcome to the hash DB for every course served!
 
-In order to make sure you are not getting scammed (*e.g, by somebody who claims to be selling our courses, but does not fully look like us*), we have decided to make this document the official record of all SHA1 (*only*) hashes for the files sold by SkyPenguinLabs. 
+In order to make sure you are not getting scammed (*e.g, by somebody who claims to be selling our courses, but does not fully look like us*), we have decided to make this document the official record of all SHA1 (*only*) hashes for the files sold by SkyPenguinLabs.
 
-# Sample or Free Downloadable Content 
+This document is separated into two sections, both involving a table of the resource name, followed by its file type, hash, and description:
+
+* Sample or Free Downloadable Content - This is all of the content which is found on our GitHub page, or on a remote server under the domain skypenguinlabs.wtf
+* Paid Downloadable Content - This is all of the content or media we release which is paid for. 
+
+
+### Sample or Free Downloadable Content 
 The table below lists the SHA1 hashes of every single FREE, immediately downloadable file. These include application demos, CTFs, and 
 
 | Reference Name | Type of File  | Sha-1 Hash | Description of Hash Relation | 
