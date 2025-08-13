@@ -22,3 +22,9 @@ people a chance to
 > [!CAUTION]
 > Every single course here has at LEAST 10 pages in the sample document. You will notice when viewing sample documents, there is a high-resolution watermark covering the text; this is intentional. Any attempt to pirate or re-upload these anywhere and SkyPenguinLabs will reach out to parent services to have the content removed. Please be friendly, and ask us for permission first!  
 
+---- OTHER NOTICES
+
+> [!IMPORTANT]
+> Remember, if you are questioning your security in relation to the documents, every single document, or downloadable media produced by SkyPenguinLabs is ran through `sha1sum` and recorded [here](../CourseResources/HelpUsFightPiracy) for you to match and test out. Uploading to [VirusTotal](https://www.virustotal.com/gui/file/e23a4697fce0e5db29a5e9409da0ac4cf27ad065fd6146d01f8af098b78a6290?nocache=1) is also recommended. If any media is obtained from a third-party service, its use is strongly discouraged. SkyPenguinLabs guarantees that all media is distributed exclusively through its official primary stores and domains owned and operated by SkyPenguinLabs, and is not resold through any other channels. If this is the case, it is most likely a phishing attempt or an action by a malicious third party falsely claiming to possess our content, with the intent of inducing you to download potentially harmful material. In which case, report it, and our legal team will handle this ASAP!
+
+
