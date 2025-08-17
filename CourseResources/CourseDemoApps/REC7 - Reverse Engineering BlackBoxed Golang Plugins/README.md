@@ -43,17 +43,25 @@ To install all of the libraries and requirements. Either or, they are all very s
 
 * Now you can build the plugins, and then the application
 
-  ```
-  go build -buildmode=plugin -ldflags="-s -w" -o keygen.so ./plugins/keygen/keygenplugin.go
-  go build -buildmode=plugin -ldflags="-s -w" -o postlogin.so ./plugins/postlogin/postlogin.go
-  go build -o app main.go
-  ```
+```
+go build -buildmode=plugin -ldflags="-s -w" -o keygen.so ./plugins/keygen/keygenplugin.go
+go build -buildmode=plugin -ldflags="-s -w" -o postlogin.so ./plugins/postlogin/postlogin.go
+go build -o app main.go
+```
 
-  ---
-  ### Running the application!
-  ---
+---
+### Running the application!
+---
 
-  You are now set to run the demo application, which loads two separate in-process plugins developed to assist the login functionality!
+You are now set to run the demo application, which loads two separate in-process plugins developed to assist the login functionality!
+
+```
+./app
+```
+
+# Demo Screenshots 
+
+
 
   
 
