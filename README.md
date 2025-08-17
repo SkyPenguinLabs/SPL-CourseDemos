@@ -1,5 +1,3 @@
-# SkyPenguinLabs - Courses & Consultation
----
 
 ![SplBanner](./Assets/SkyPenguinLabsGithubBackground.png)
 
