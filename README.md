@@ -1,8 +1,6 @@
 # SkyPenguinLabs - Courses & Consultation
 ---
 
-Oh, hello there friend! We have a lot to explore here, so let me cut to the chase.
-
 ![SplBanner](./Assets/SkyPenguinLabsGithubBackground.png)
 
 ---
