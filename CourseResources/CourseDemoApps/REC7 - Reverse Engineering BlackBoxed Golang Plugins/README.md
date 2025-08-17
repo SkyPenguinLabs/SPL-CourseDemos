@@ -6,12 +6,20 @@ This application is only designed to run on Linux, as it uses in-process plugins
 it did take some work, so I decided to give you a descriptive document explaining how to set it up and what it looks like!
 
 
+---
 #### Setting Up
+---
 
 In order to setup, clone all of the contents within this directory, `cd` into it, and then run the following commands in order below.
 
 > [!TIP]
-> This application was compiled using Go v1.12.8 linux/amd64, make sure the compiler version is this one or some version around, anything too recent has not been tested, such as 1.25.0 
+> This application was compiled using Go v1.12.8 linux/amd64. Make sure the compiler version is this one or some version around; anything too recent has not been tested, such as 1.25.0 
 
 
-* if you do not have X11 devkits installed, pls install them.
+* if you do not have LibX11 devkits installed, pls install them. The following commands are for a debian system, and were run on a parrot6 machine running inside of Vmware Workstation Pro v17. 
+
+```
+sudo apt-get install libx11-dev libxcursor-dev libxrandr-dev libxinerama-dev libxi-dev libgl1-mesa-dev xorg-dev
+sudo apt install libx11-dev libxcursor-dev libxrandr-dev libxinerama-dev libxi-dev libgl1-mesa-dev
+```
+
