@@ -19,8 +19,7 @@ In order to setup, clone all of the contents within this directory, `cd` into it
 * if you do not have LibX11 devkits installed, pls install them. The following commands are for a debian system, and were run on a parrot6 machine running inside of Vmware Workstation Pro v17. 
 
 ```
-sudo apt-get install libx11-dev libxcursor-dev libxrandr-dev libxinerama-dev libxi-dev libgl1-mesa-dev xorg-dev
-sudo apt install libx11-dev libxcursor-dev libxrandr-dev libxinerama-dev libxi-dev libgl1-mesa-dev
+sudo apt install libx11-dev libxcursor-dev libxrandr-dev libxinerama-dev libxi-dev libgl1-mesa-dev xorg-dev
 ```
 
 #### Step 2 
