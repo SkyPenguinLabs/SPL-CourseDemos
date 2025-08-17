@@ -19,3 +19,13 @@ N/A - Reason: These are executables built for Windows. Windows 10 is all thats r
 
 ### Screenshots / Demo app samples 
 
+> AI Generated Messes!
+
+
+![SPL VPN Skeleton Demo 2](./Assets/FrontendDemo2.png)
+
+
+> Human engineered smooth examples.... (♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)
+
+
+![SPL VPN Skeleton Demo 2](./Assets/FrontendDemo1.png)
