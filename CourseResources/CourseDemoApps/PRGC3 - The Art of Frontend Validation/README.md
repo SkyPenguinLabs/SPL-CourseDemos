@@ -25,7 +25,7 @@ N/A - Reason: These are executables built for Windows. Windows 10 is all thats r
 ![SPL VPN Skeleton Demo 2](./Assets/FrontendDemo2.png)
 
 
-> Human engineered smooth examples.... (♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)(♡﹃♡)
+> Human engineered smooth examples.... (♡﹃♡)
 
 
 ![SPL VPN Skeleton Demo 2](./Assets/FrontendDemo1.png)
