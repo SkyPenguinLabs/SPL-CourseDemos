@@ -11,7 +11,10 @@ The table below outlines the folders and their contents.
 | Folder / Course Name | Explanation of contents |
 | -------------------- | ----------------------- | 
 | [REC6](./REC6%20-%20How%20to%20analyze%20GUIs%20built%20for%20Windows)| All of the contents here revolve around the executable and the DLL the executable requires for reverse engineering. Thats all 
+| [REC7](./REC7%20-%20Reverse%20Engineering%20BlackBoxed%20Golang%20Plugins)| All of the contents within this folder (all of one app, lol) are used within the REC7 course. 
 | [PRGC3](./PRGC3%20-%20The%20Art%20of%20Frontend%20Validation) | All of the applications that are DEMO apps, not CTFs, not full production apps, or puzzles, just demo frontend ElectronJS apps that walk you through different validation mechanisms inside of frontend applications for uX 
+
+
 
 
 > [!IMPORTANT]
