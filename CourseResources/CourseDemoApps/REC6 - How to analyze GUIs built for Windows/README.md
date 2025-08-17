@@ -32,13 +32,13 @@ While the beta does not include many of these, you get a good visual example of 
 
 ---
 #### Generic example 
-![Time Was Spent on This - via SickBitBETA](./Assets/SickBitBetaD1)
+![Time Was Spent on This - via SickBitBETA](./Assets/SickBitBetaD1.png)
 
 ---
 #### Animated & fun login functionality
-![Time Was Spent on This - via SickBitBETA](./Assets/SickBitBetaD3)
+![Time Was Spent on This - via SickBitBETA](./Assets/SickBitBetaD3.png)
 
 ---
 #### Builtin text editor
 
-![Text Editor - via SickBitBETA](./Assets/SickBitBetaD2)
+![Text Editor - via SickBitBETA](./Assets/SickBitBetaD2.png)
