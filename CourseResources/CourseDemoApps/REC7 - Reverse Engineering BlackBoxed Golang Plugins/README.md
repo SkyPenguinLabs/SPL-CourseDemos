@@ -2,6 +2,9 @@
 
 In lieu of reverse engineering Go, I figured I would do something special. So I went absolutely HAM on this and built a small login page for the first time with Fyne in Go. 
 
+The reason this VPN skeleton exists is because I wanted to design an idea for an app that loaded plugins in a particular way, to warm up to them- it also gave me something to reverse before writing REC7 to make sure I purely understood the contents
+of the subject. And also, it was fun trying to make something unique to reverse, so I figured I would share the source code with the world! 
+
 This application is only designed to run on Linux, as it uses in-process plugins within the Go programming language, and uses X11 as a rendering backbone, using fyne as the wrapoer. In order to set this up
 it did take some work, so I decided to give you a descriptive document explaining how to set it up and what it looks like!
 
