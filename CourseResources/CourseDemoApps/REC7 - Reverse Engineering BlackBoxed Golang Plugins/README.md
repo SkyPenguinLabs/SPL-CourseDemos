@@ -10,7 +10,8 @@ it did take some work, so I decided to give you a descriptive document explainin
 
 In order to setup, clone all of the contents within this directory, `cd` into it, and then run the following commands in order below.
 
-> [!TIP] This application was compiled using Go v1.12.8 linux/amd64, make sure the compiler version is this one or some version around, anything too recent has not been tested, such as 1.25.0 
+> [!TIP]
+> This application was compiled using Go v1.12.8 linux/amd64, make sure the compiler version is this one or some version around, anything too recent has not been tested, such as 1.25.0 
 
 
 * if you do not have X11 devkits installed, pls install them.
