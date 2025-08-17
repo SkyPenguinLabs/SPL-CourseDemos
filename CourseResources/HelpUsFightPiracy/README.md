@@ -33,3 +33,4 @@ The table below lists the SHA1 hashes of every single FREE, immediately download
 | [SAMPLE - REC4]() | Downloadable PDF File | 5c88092e4833143beffc09d8a10b59b1f1e2f9c2 | Time managing the reverse engineering process. Sample 
 | [SAMPLE - REC5]() | Downloadable PDF File | 943cf21467775bc66eca17975d17c71b822f74ce | REC5 course demo, which speaks on using Golang for static analysis of ELF files 
 | [SAMPLE - REC6]() | Downloadable PDF File | a82911f9340fac09ef298c3fe6e499f55dc3494a | REC6, teaches how to analyze GUI components built for x64, Windows. This is the hash for the demo 
+| [SAMPLE - REC7]() | Downloadable PDF FIle | f0ba49e9847d5b3a888c5da2a2302f1864bb88ca | REC7, teaches how to take golang plugins to the next level by reverse engineering them. Additionally, first paid article starting from 8/17/2025 that uses the new format and watermarking standards! Woop Woop! ^_^ 
