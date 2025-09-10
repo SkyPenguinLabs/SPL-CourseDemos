@@ -1,0 +1,204 @@
+{
+  "CourseList": [
+    {
+      "Name": "Mathematics & Its Applications In RE",
+      "Desc": "People do not cover the surface area of mathematics and its applications to RE much. This lesson is here to remind beginners how much math goes behind advanced sides of reverse engineering, exploit development, and even tooling & engineering in relation to frameworks like disassemblers.",
+      "PageCount": "21",
+      "Price": "$9.81",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/REC2_SAMPLE_QR.png",
+      "ShopUrl": "https://www.etsy.com/listing/4348332575/rec2-how-mathematics-is-applied-to?ref=shop_home_active_2&dd=1&logging_key=fbcab1a95fb3c5bf5aac12108d2227fa3a365a40%3A4348332575",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/CourseSamples/Engineering%20%26%20Reverse%20Engineering%20Lesson%20SAMPLES/%5BSAMPLE%5D%20%20REC2%20-%20How%20Mathematics%20Is%20Applied%20To%20Reverse%20Engineering%20%5BSAMPLE%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "Digital Course",
+      "Topic": "Reverse Engineering",
+      "TopicShort": "RE",
+      "DatePublished": "Aug 2025",
+      "Level": "Beginner",
+      "Subtitle": "REC2 - A small little lesson that introduces you to the different aspects of the way reverse engineering is used"
+    },
+    {
+      "Name": "How to analyze GUI components built for x64, Windows apps",
+      "Desc": "This course will take a demonstrative application engineered internally by SkyPenguinLabs engineers and will teach you how to breakdown graphical applications built for Windows, specifically facing x64 targets. You will learn a lot here, but make sure you read the demo to understand the content",
+      "PageCount": "52",
+      "Price": "$19.63",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/REC6_SAMPLE_QR.png",
+      "ShopUrl": "#",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/CourseSamples/Engineering%20%26%20Reverse%20Engineering%20Lesson%20SAMPLES/_%5BSAMPLE%5D%20REC6%20-%20How%20to%20analyze%20GUI%20components%20built%20for%20x64%2C%20Windows%20%20%5BSAMPLE%5D%20(1).pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "Digital Course",
+      "Topic": "Reverse Engineering",
+      "TopicShort": "RE",
+      "DatePublished": "Aug 2025",
+      "Level": "Beginner",
+      "Subtitle": "REC5 - Analyzing Graphical Applications developed for the Windows Operating system for x64 targets"
+    },
+    {
+      "Name": "Offensive Tooling & Development Introduction",
+      "Desc": "I am sure, as a reverse engineer you may have been stuck on a tight time schedule when trying to make a deliverable. But get lost finding ways to cut the amount of time you spend on the reversing process. This lesson walks through some interesting methods that cut you small amounts of time which may just save your deliverable from being late!",
+      "PageCount": "31",
+      "Price": "$11.78",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/REC2_SAMPLE_QR.png",
+      "ShopUrl": "https://www.etsy.com/listing/4348340931/rec4-time-managing-the-reversing-process?ref=shop_home_active_3&dd=1&logging_key=8d11866b40d85b35d0d1315b7e2458489761bec4%3A4348340931",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/CourseSamples/Engineering%20%26%20Reverse%20Engineering%20Lesson%20SAMPLES/%5BSAMPLE%5D%20PRGC3%20-%20The%20Art%20of%20Frontend%20Validation%20%5BSAMPLE%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "Digital Course",
+      "Topic": "Reverse Engineering",
+      "TopicShort": "RE",
+      "DatePublished": "Aug 2025",
+      "Level": "Beginner",
+      "Subtitle": "REC4 - Developing Offensive Tools & Scripts - Intro"
+    },
+    {
+      "Name": "Learning how to Go modules work",
+      "Desc": "Lets take to the rig and try to understand how Go's confusing ass module system works. Yeah, I said it, rage against this confusing piece of machinery! No but for real, this lesson covers the basics to surface level intro to what Golang modules are and how they work conceptually",
+      "PageCount": "21",
+      "Price": "$8.20",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/PRGC1_SAMPLE_QR.png",
+      "ShopUrl": "https://www.etsy.com/listing/4347410908/prgc1-go-modules-in-depth-for-beginners?ref=shop_home_active_1&dd=1&logging_key=c288ab43725963b3bdced90d9ab56fd209145a02%3A4347410908",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/CourseSamples/Development%20Lesson%20SAMPLES/%5BSAMPLE%5D%20PRGC1%20-%20Go%20Modules%20In%20Depth%20For%20Beginners%20%5BSAMPLE%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "Digital Course",
+      "Topic": "Go Development",
+      "TopicShort": "GO",
+      "DatePublished": "Aug 2025",
+      "Level": "Beginner",
+      "Subtitle": "PRGC1 - Go modules for beginners"
+    },
+    {
+      "Name": "Auto-detecting Ethereum in Binaries (ELF)",
+      "Desc": "Develop defensive tools to automatically detect cryptocurrency-related malware in ELF files",
+      "PageCount": "21",
+      "Price": "$21.59",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/REC5_SAMPLE_QR.png",
+      "ShopUrl": "https://www.etsy.com/listing/4346916926/rec5-static-analysis-for-ethereum?ref=shop_home_active_1&dd=1&logging_key=c9fa08a014cf305bdb526ff8818d834d9c179871%3A4346916926",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/CourseSamples/Development%20Lesson%20SAMPLES/%5BSAMPLE%5D%20OPRGC1%20-%20Proper%20Offensive%20Tooling%20%26%20Development%20Introduction%20%5BSAMPLE%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "Digital Course",
+      "Topic": "Blockchain Security",
+      "TopicShort": "BC",
+      "DatePublished": "Aug 2025",
+      "Level": "Beginner",
+      "Subtitle": "REC5 - Using Go to build fun unique scanning tools that apply to niche scenarios"
+    },
+    {
+      "Name": "Liquid Docs Vol. 1, Season 1",
+      "Desc": "The first season of the Liquid Docs series, pushing SkyPenguinLabs away from phsyical manual production into digital ebooks which highlight some of the primary content of the courses published here, along with external, extended versions of course content meant to remind you why we exist",
+      "PageCount": "N/A",
+      "Price": "Unevaluated",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/EbookSample_LiquidDocs.png",
+      "ShopUrl": "#",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/EbookSamples/%5BDEMO%5D%20Liquid%20Docs%20Vol%20.1%20-%20Season%201%20_%20SkyPenguinLabs%20%5BDEMO%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "eBook",
+      "Topic": "Mixed Content",
+      "TopicShort": "MIX",
+      "DatePublished": "Aug 2025",
+      "Level": "None",
+      "Subtitle": "A full comprehensive summary guide for season 1 of the course drops for Aug2025!"
+    },
+    {
+      "Name": "Black Hat Go Manual",
+      "Desc": "Similar to Go, was designed to be a better version of the Go manual but with the Python programming language. Not only designed with more thought towards content in mind, but a lot more thought and effort into editing the actual content",
+      "PageCount": "260",
+      "Price": "$15.56",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/EbookSample_BHGM.png",
+      "ShopUrl": "https://www.etsy.com/listing/4346693185/bhgm-black-hat-go-manual-digital-copy?ref=shop_home_active_3&dd=1&logging_key=9169194907d9501f249df2916972935b533f07f7%3A4346693185",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/EbookSamples/%5BDEMO%5D%20Black%20Hat%20Go%20Manual%20%5BDEMO%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "eBook",
+      "Topic": "Go Development",
+      "TopicShort": "GO",
+      "DatePublished": "Jul 17th 2023",
+      "Level": "Student",
+      "Subtitle": "A quick, fun and simple guide to learning niche things about Go as a beginner"
+    },
+    {
+      "Name": "Black Hat Python Manual",
+      "Desc": "The first season of the Liquid Docs series, pushing SkyPenguinLabs away from phsyical manual production into digital ebooks which highlight some of the primary content of the courses published here, along with external, extended versions of course content meant to remind you why we exist",
+      "PageCount": "347",
+      "Price": "$17.89",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/EbookSample_BHPM.png",
+      "ShopUrl": "https://www.etsy.com/listing/4346694246/bhpm-black-hat-python-manual-digital?ref=shop_home_active_3&dd=1&logging_key=2c81a9a37cce504c917deadfbf9223852a921e79%3A4346694246",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/EbookSamples/%5BDEMO%5D%20Black%20Hat%20Python%20Manual%20%5BDEMO%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "eBook",
+      "Topic": "Python Development",
+      "TopicShort": "PY",
+      "DatePublished": "October 3, 2023",
+      "Level": "Student",
+      "Subtitle": "Fun and simple pocket guide to nifty python3 things"
+    },
+    {
+      "Name": "GHFM",
+      "Desc": "A full fledged theoretical booklet rather than a technical, summary-based booklet which aims to walk you through some fun niche things within the game hacking world.",
+      "PageCount": "391",
+      "Price": "$21.00",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/EbookSampl_GHFM.png",
+      "ShopUrl": "https://www.etsy.com/listing/4346700566/ghfm-game-hackers-field-manual-digital?ref=shop_home_active_2&dd=1&logging_key=43948f55356e4e28441d1b70823f06b0dd2494d6%3A4346700566",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/EbookSamples/%5BDEMO%5D%20Game%20Hackers%20Field%20Manual%20%5BDEMO%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "eBook",
+      "Topic": "Game Hacking",
+      "TopicShort": "GH",
+      "DatePublished": "January 6, 2024",
+      "Level": "Student",
+      "Subtitle": "Want to pick up some fundamentals/theory with game hacking?"
+    },
+    {
+      "Name": "REFM",
+      "Desc": "Another theoretical manual, but the final manual produced by SkyPenguinLabs indicating the move over into e-manual like content while being able to introduce the reader to the theory of reverse engineering, for a full book series called the Reverse Engineers Codex. Additionally, this is a higher quality manual, with custom images, branding, and other various additions that make it unique to SPL",
+      "PageCount": "386",
+      "Price": "$23.00",
+      "QrUrl": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/QRs/EbookSample_LiquidDocs.png",
+      "ShopUrl": "https://www.etsy.com/listing/4346715012/refm-reverse-engineering-field-manual?ref=shop_home_active_1&dd=1&logging_key=b718a22ff20e2ba00a251c762fb0e86be968efe5%3A4346715012",
+      "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos/blob/main/EbookSamples/%5BDEMO%5D%20Liquid%20Docs%20Vol%20.1%20-%20Season%201%20_%20SkyPenguinLabs%20%5BDEMO%5D.pdf",
+      "Author": {
+        "Name": "Totally_Not_A_Haxxer",
+        "Position": "Offensive Security Analyst",
+        "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+      },
+      "Category": "eBook",
+      "Topic": "Reverse Engineering",
+      "TopicShort": "RE",
+      "DatePublished": "Aug 2025",
+      "Level": "Student",
+      "Subtitle": "Dont know what RE is? This manual covers enough surface level to get you started in this information war"
+    }
+  ]
+}
