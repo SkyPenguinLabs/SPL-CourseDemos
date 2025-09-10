@@ -1,0 +1,23 @@
+{
+    "CourseList": [
+        {
+            "Name": "REC7 - Reverse Engineering & Go Plugins",
+            "Desc": "Teaches you all what you need to get started within reversing go and plugins built / compiled in Go",
+            "PageCount": "50",
+            "Price": "$24.53",
+            "QrUrl": "https://raw.githubusercontent.com/SomeQrRepo/Wr.png",
+            "ShopUrl": "https://skypenguinlabs.etsy.com/productid=4",
+            "SampleURL": "https://github.com/SkyPenguinLabs/SPL-CourseDemos",
+            "Author:": {
+                "Name": "Totally_Not_A_Haxxer",
+                "Position": "Offensive Security Analyst",
+                "Biography": "Haxxer works as a cybersecurity researcher and the owner of SkyPenguinLabs."
+            },
+            "Category": "Digital Course",
+            "Topic": "Reverse Engineering",
+            "TopicShort": "RE", 
+            "DatePublished": "9/10/2025", 
+            "Level": "Beginner"
+        }
+    ]
+}
