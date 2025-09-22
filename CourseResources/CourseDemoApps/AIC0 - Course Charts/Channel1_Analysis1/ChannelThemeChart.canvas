@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"07d5cc400976bd63","type":"file","file":"A.png","x":-380,"y":-220,"width":399,"height":209,"color":"1"},
+		{"id":"b8f600b18d952563","type":"text","text":"#### BACKTRACK: 1 more month (5 months from the time of writing)","x":271,"y":-309,"width":369,"height":80,"color":"2"},
+		{"id":"2e468187d684917b","type":"file","file":"B.png","x":480,"y":-840,"width":544,"height":353,"color":"1"},
+		{"id":"9114adc2b17e2ca5","type":"text","text":"### Backtrack another month (6 months from the time of writing) ","x":840,"y":-363,"width":279,"height":109,"color":"2"},
+		{"id":"a6d5265d1bbfc78b","type":"file","file":"C.png","x":660,"y":-40,"width":400,"height":187,"color":"1"},
+		{"id":"0fa41837123823f6","type":"text","text":"### it keeps going,,,","x":1280,"y":-405,"width":250,"height":60,"color":"2"},
+		{"id":"79841d6e18c9f8b0","type":"file","file":"D.png","x":1500,"y":-700,"width":399,"height":191,"color":"1"},
+		{"id":"e3c3fc2ee26f3c07","type":"file","file":"E.png","x":1900,"y":-205,"width":400,"height":180,"color":"1"},
+		{"id":"1b08145f6523bacc","type":"file","file":"F.png","x":1360,"y":147,"width":400,"height":184,"color":"1"},
+		{"id":"9be502f9c4c9d206","type":"text","text":"## (A) Style used within the last 4 months of video content","x":-470,"y":-309,"width":580,"height":80,"color":"1"},
+		{"id":"b7d0b94dd5c1be3e","type":"text","text":"#### (F) and the trail messes up my brain here....\n","x":1210,"y":71,"width":420,"height":76,"color":"1"},
+		{"id":"f67302807340fbde","type":"text","text":"### (B) Coverart/Clickbait Style used within the last 5 months of video content *(another popular and common style started by big pages)*\n","x":357,"y":-920,"width":703,"height":80,"color":"1"},
+		{"id":"6c478931a9c211e0","type":"text","text":"#### (D) Remember in the original screenshots of the social media posts we had seen this same yellow text theme on educational posts? This has become huge recent (Aug2025-Present) \n","x":1280,"y":-817,"width":700,"height":117,"color":"1"},
+		{"id":"35a39052aa72447b","type":"text","text":"### (C) Here we are again...another style transition oddly around the time this style of coverart was more popularized\n","x":330,"y":-116,"width":660,"height":76,"color":"1"},
+		{"id":"cd7d53bc62e8b0b5","type":"text","text":" ### (E) Filler theme? Could not make much of this one. It got significantly lower views than content using other forms of coverart, which is why that theme may not have been used much\n","x":1700,"y":-406,"width":505,"height":194,"color":"1"}
+	],
+	"edges":[
+		{"id":"b10f4e0e35c583f7","fromNode":"07d5cc400976bd63","fromSide":"right","toNode":"b8f600b18d952563","toSide":"left","color":"2"},
+		{"id":"8a813c92cd08a4dd","fromNode":"b8f600b18d952563","fromSide":"top","toNode":"2e468187d684917b","toSide":"bottom","color":"2"},
+		{"id":"05372efd9383361e","fromNode":"b8f600b18d952563","fromSide":"right","toNode":"9114adc2b17e2ca5","toSide":"left","color":"2"},
+		{"id":"e21e76c9bd05d9cc","fromNode":"9114adc2b17e2ca5","fromSide":"bottom","toNode":"a6d5265d1bbfc78b","toSide":"right","color":"3"},
+		{"id":"d579e253f29b95fb","fromNode":"9114adc2b17e2ca5","fromSide":"right","toNode":"0fa41837123823f6","toSide":"left","color":"2"},
+		{"id":"f9c76d4b96446cd9","fromNode":"0fa41837123823f6","fromSide":"top","toNode":"79841d6e18c9f8b0","toSide":"left","color":"2"},
+		{"id":"cb2314acb4303b7a","fromNode":"79841d6e18c9f8b0","fromSide":"right","toNode":"e3c3fc2ee26f3c07","toSide":"right","color":"1"},
+		{"id":"a26bb232b7bba0a8","fromNode":"e3c3fc2ee26f3c07","fromSide":"bottom","toNode":"1b08145f6523bacc","toSide":"right","color":"1"}
+	]
+}
